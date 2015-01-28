@@ -1,0 +1,1 @@
+{"snippet":{"content":["\r\n<ion-refresher\r\n  pulling-text=\"${1:Pull to refresh...}\"\r\n  on-refresh=\"${2:doRefresh}()\">\r\n</ion-refresher>\r\n"],"tabTrigger":["ionic-refresher"],"scope":["text.html"]}}

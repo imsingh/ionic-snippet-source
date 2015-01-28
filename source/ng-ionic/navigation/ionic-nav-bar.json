@@ -1,0 +1,1 @@
+{"snippet":{"content":["\r\n<ion-nav-bar class=\"bar-positive\">\r\n  ${0}\r\n</ion-nav-bar>\r\n"],"tabTrigger":["ionic-nav-bar"],"scope":["text.html"]}}

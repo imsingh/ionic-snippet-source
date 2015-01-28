@@ -1,0 +1,1 @@
+{"snippet":{"content":["\r\n<div class=\"button-bar\">\r\n  <a class=\"button\">${1:First}</a>\r\n  <a class=\"button\">${2:Second}</a>\r\n  <a class=\"button\">${3:Third}</a>\r\n</div>\r\n"],"tabTrigger":["ionic-css-button-bar"],"scope":["text.html"]}}

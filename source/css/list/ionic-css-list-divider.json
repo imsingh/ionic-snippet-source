@@ -1,0 +1,1 @@
+{"snippet":{"content":["\r\n<div class=\"item item-divider\">\r\n  ${1:Item Divider}\r\n</div>\r\n"],"tabTrigger":["ionic-css-list:divider"],"scope":["text.html"]}}

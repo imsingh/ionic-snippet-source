@@ -1,0 +1,1 @@
+{"snippet":{"content":["\r\n<ion-tab\r\n  title=\"${1:Tab!}\"\r\n  icon=\"my-icon\"\r\n  href=\"#/${2:tab/tab-link}\"\r\n  on-select=\"onTabSelected()\"\r\n  on-deselect=\"onTabDeselected()\">\r\n</ion-tab>\r\n"],"tabTrigger":["ionic-tab"],"scope":["text.html"]}}

@@ -1,0 +1,1 @@
+{"snippet":{"content":["\r\n<div class=\"list list-inset\">\r\n  <label class=\"item item-input\">\r\n    <i class=\"icon ion-search placeholder-icon\"></i>\r\n    <input type=\"text\" placeholder=\"${1:Search}\">\r\n  </label>\r\n</div>\r\n"],"tabTrigger":["ionic-css-form-icon"],"scope":["text.html"]}}

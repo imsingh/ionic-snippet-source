@@ -1,0 +1,1 @@
+{"snippet":{"content":["\r\n\\$ionicPopup.prompt({\r\n  title: '${1:Title}',\r\n  template: '${2:Template}',\r\n  inputType: '${3:password}',\r\n  inputPlaceholder: '${4:Placehoder Text}'\r\n}).then(function(res) {\r\n  console.log('Your password is', res);\r\n});\r\n"],"tabTrigger":["ionic-js-popup:prompt"],"scope":["source.js"]}}

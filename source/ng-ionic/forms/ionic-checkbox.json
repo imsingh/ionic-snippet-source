@@ -1,0 +1,1 @@
+{"snippet":{"content":["\r\n<ion-checkbox ng-model=\"${1:isChecked}\">${2:Label}</ion-checkbox>\r\n"],"tabTrigger":["ionic-checkbox"],"scope":["text.html"]}}

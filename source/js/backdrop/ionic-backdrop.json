@@ -1,0 +1,1 @@
+{"snippet":{"content":["\r\nfunction MyController(\\$scope, \\$ionicBackdrop, \\$timeout) {\r\n  //Show a backdrop for one second\r\n  \\$scope.action = function() {\r\n    \\$ionicBackdrop.retain();\r\n    \\$timeout(function() {\r\n      \\$ionicBackdrop.release();\r\n    }, 1000);\r\n  };\r\n}\r\n"],"tabTrigger":["ionic-js-backdrop"],"scope":["source.js"]}}

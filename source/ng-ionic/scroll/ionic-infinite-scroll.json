@@ -1,0 +1,1 @@
+{"snippet":{"content":["\r\n<ion-infinite-scroll\r\n    on-infinite=\"${1:loadMore()}\"\r\n    distance=\"1%\">\r\n</ion-infinite-scroll>\r\n"],"tabTrigger":["ionic-infinite-scroll"],"scope":["text.html"]}}

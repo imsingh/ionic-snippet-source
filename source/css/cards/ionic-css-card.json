@@ -1,0 +1,1 @@
+{"snippet":{"content":["\r\n<div class=\"card\">\r\n  <div class=\"item item-text-wrap\">\r\n    ${1:This is a Card}\r\n  </div>\r\n</div>\r\n"],"tabTrigger":["ionic-css-card"],"scope":["text.html"]}}

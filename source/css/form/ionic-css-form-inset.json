@@ -1,0 +1,1 @@
+{"snippet":{"content":["\r\n<div class=\"list list-inset\">\r\n  <label class=\"item item-input\">\r\n    <input type=\"text\" placeholder=\"${1:First Name}\">\r\n  </label>\r\n  <label class=\"item item-input\">\r\n    <input type=\"text\" placeholder=\"${2:Last Name}\">\r\n  </label>\r\n</div>\r\n"],"tabTrigger":["ionic-css-form-inset"],"scope":["text.html"]}}

@@ -1,0 +1,1 @@
+{"snippet":{"content":["\r\n<a class=\"item item-icon-left\" href=\"${1:#}\">\r\n  <i class=\"icon ion-${2:ionic}\"></i>\r\n  Ionic\r\n</a>\r\n"],"tabTrigger":["ionic-css-list-item:iconleft"],"scope":["text.html"]}}

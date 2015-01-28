@@ -1,0 +1,5 @@
+# exclude everything except source folder
+
+node_modules/
+ionic-sublime-plugin/
+gulpfile.js
