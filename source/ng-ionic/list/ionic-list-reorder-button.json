@@ -1,1 +1,0 @@
-{"snippet":{"content":["\r\n<ion-list ng-controller=\"${1:MyCtrl}\">\r\n  <ion-item ng-repeat=\"${2:item} in ${3:items}\">\r\n    ${4:Item}\r\n    <ion-reorder-button class=\"ion-navicon\"\r\n        on-reorder=\"moveItem(item, \\$fromIndex, \\$toIndex)\">\r\n    </ion-reorder>\r\n  </ion-item>\r\n</ion-list>\r\n"],"tabTrigger":["ionic-reorder-button"],"scope":["text.html"]}}

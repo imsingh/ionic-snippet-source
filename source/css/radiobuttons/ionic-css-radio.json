@@ -1,1 +1,0 @@
-{"snippet":{"content":["\r\n<div class=\"list\">\r\n  <label class=\"item item-radio\">\r\n    <input type=\"radio\" name=\"group\">\r\n    <div class=\"item-content\">\r\n      ${1:Radio Button}\r\n    </div>\r\n    <i class=\"radio-icon ion-checkmark\"></i>\r\n  </label>\r\n</div>\r\n"],"tabTrigger":["ionic-css-radio"],"scope":["text.html"]}}

@@ -1,1 +1,0 @@
-{"snippet":{"content":["\r\n<li class=\"item\">\r\n  ${1:Item}\r\n</li>\r\n"],"tabTrigger":["ionic-css-list-item"],"scope":["text.html"]}}

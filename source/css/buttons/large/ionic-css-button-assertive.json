@@ -1,1 +1,0 @@
-{"snippet":{"content":["\r\n<button class=\"button button-assertive button-large\">\r\n  ${1:button-assertive}\r\n</button>\r\n"],"tabTrigger":["ionic-css-button-large:assertive"],"scope":["text.html"]}}

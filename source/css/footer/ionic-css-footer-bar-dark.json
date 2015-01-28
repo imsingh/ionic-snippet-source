@@ -1,1 +1,0 @@
-{"snippet":{"content":["\r\n<div class=\"bar bar-footer bar-dark\">\r\n  <h1 class=\"title\">${1:Footer-dark}</h1>\r\n</div>\r\n"],"tabTrigger":["ionic-css-footer:dark"],"scope":["text.html"]}}

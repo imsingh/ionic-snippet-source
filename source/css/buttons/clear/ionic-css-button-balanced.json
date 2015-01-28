@@ -1,1 +1,0 @@
-{"snippet":{"content":["\r\n<button class=\"button button-balanced button-clear\">\r\n  ${1:button-balanced}\r\n</button>\r\n"],"tabTrigger":["ionic-css-button-clear:balanced"],"scope":["text.html"]}}

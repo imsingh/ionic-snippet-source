@@ -1,1 +1,0 @@
-{"snippet":{"content":["\r\n<a class=\"item item-thumbnail-right\" href=\"#\">\r\n  <img src=\"${1:#}\">\r\n  <h2>Thumbnail</h2>\r\n  <p>I am Crazy.</p>\r\n</a>\r\n"],"tabTrigger":["ionic-css-list-item:thumbright"],"scope":["text.html"]}}

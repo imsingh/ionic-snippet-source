@@ -1,1 +1,0 @@
-{"snippet":{"content":["\r\n<div class=\"range range-calm\">\r\n  <i class=\"icon ion-ios7-ionic-outline\"></i>\r\n  <input type=\"range\" name=\"${1:name}\">\r\n  <i class=\"icon ion-ionic\"></i>\r\n</div>\r\n"],"tabTrigger":["ionic-css-range:calm"],"scope":["text.html"]}}

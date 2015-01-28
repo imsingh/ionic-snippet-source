@@ -1,1 +1,0 @@
-{"snippet":{"content":["\r\n<ion-toggle ng-model=\"\" toggle-class=\"toggle-default\">Toggle Label</ion-toggle>\r\n"],"tabTrigger":["ionic-toggle"],"scope":["text.html"]}}

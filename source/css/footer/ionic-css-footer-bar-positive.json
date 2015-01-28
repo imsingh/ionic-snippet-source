@@ -1,1 +1,0 @@
-{"snippet":{"content":["\r\n<div class=\"bar bar-header bar-positive\">\r\n  <h1 class=\"title\">${1:bar-positive}</h1>\r\n</div>\r\n"],"tabTrigger":["ionic-css-header:positive"],"scope":["text.html"]}}

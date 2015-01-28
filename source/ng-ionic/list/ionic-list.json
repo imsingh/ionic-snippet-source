@@ -1,1 +1,0 @@
-{"snippet":{"content":["\r\n<ion-list>\r\n  <ion-item ng-repeat=\"${1:item} in ${2:items}\">\r\n\r\n  </ion-item>\r\n</ion-list>\r\n"],"tabTrigger":["ionic-list"],"scope":["text.html"]}}
