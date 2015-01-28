@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<ion-nav-back-button class=\"button-clear\">\r\n  <i class=\"ion-arrow-left-c\"></i> Back\r\n</ion-nav-back-button>\r\n"],
+        "tabTrigger": ["ionic-nav-back"],
+        "scope": ["text.html"]
+    }
+}

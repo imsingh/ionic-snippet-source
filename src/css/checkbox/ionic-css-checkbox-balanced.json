@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<ul class=\"list\">\r\n  <li class=\"item item-checkbox\">\r\n    <label class=\"checkbox checkbox-balanced\">\r\n      <input type=\"checkbox\">\r\n    </label>\r\n    ${1:Checkbox Crazy}\r\n  </li>\r\n</ul>\r\n"],
+        "tabTrigger": ["ionic-css-checkbox:balanced"],
+        "scope": ["text.html"]
+    }
+}

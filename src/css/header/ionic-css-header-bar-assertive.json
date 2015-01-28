@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<div class=\"bar bar-header bar-assertive\">\r\n  <h1 class=\"title\">${1:Header bar-assertive}</h1>\r\n</div>\r\n"],
+        "tabTrigger": ["ionic-css-header:assertive"],
+        "scope": ["text.html"]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<div class=\"list card\">\r\n  <a href=\"#\" class=\"item item-icon-left\">\r\n    <i class=\"icon ion-home\"></i>\r\n    ${1:First Item}\r\n  </a>\r\n\r\n  <a href=\"#\" class=\"item item-icon-left\">\r\n    <i class=\"icon ion-ios7-telephone\"></i>\r\n    ${2:Second Item}\r\n  </a>\r\n\r\n  <a href=\"#\" class=\"item item-icon-left\">\r\n    <i class=\"icon ion-wifi\"></i>\r\n    ${3:Third Item}\r\n  </a>\r\n\r\n  <a href=\"#\" class=\"item item-icon-left\">\r\n    <i class=\"icon ion-card\"></i>\r\n    ${4:Fourth Item}\r\n  </a>\r\n</div>\r\n"],
+        "tabTrigger": ["ionic-css-card:list"],
+        "scope": ["text.html"]
+    }
+}

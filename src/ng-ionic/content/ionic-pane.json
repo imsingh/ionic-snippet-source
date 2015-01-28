@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<ion-pane>\r\n  ${1:Challenge Accepted! :P}\r\n</ion-pane>\r\n"],
+        "tabTrigger": ["ionic-pane"],
+        "scope": ["text.html"]
+    }
+}

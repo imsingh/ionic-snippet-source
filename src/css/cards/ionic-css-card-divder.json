@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<div class=\"item item-divider\">\r\n    I'm a Header in a Card!\r\n</div>\r\n"],
+        "tabTrigger": ["ionic-css-card:divider"],
+        "scope": ["text.html"]
+    }
+}

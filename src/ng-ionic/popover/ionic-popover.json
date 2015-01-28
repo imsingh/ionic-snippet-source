@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<p>\r\n  <button ng-click=\"openPopover(\\$event)\">Open Popover</button>\r\n</p>\r\n\r\n// You can place this template in seperate html file\r\n<script id=\"my-popover.html\" type=\"text/ng-template\">\r\n  <ion-popover-view>\r\n    <ion-header-bar>\r\n      <h1 class=\"title\">My Popover Title</h1>\r\n    </ion-header-bar>\r\n    <ion-content>\r\n      Hello!\r\n    </ion-content>\r\n  </ion-popover-view>\r\n</script>\r\n"],
+        "tabTrigger": ["ionic-popover"],
+        "scope": ["text.html"]
+    }
+}

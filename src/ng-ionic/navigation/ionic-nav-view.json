@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<ion-nav-bar></ion-nav-bar>\r\n<ion-nav-view animation=\"slide-left-right\">\r\n  <!-- Center content -->\r\n</ion-nav-view>\r\n"],
+        "tabTrigger": ["ionic-nav-view"],
+        "scope": ["text.html"]
+    }
+}

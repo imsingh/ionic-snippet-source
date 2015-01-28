@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<ion-list>\r\n  <ion-item>\r\n    ${1:I love kittens!}\r\n    <ion-option-button class=\"button-positive\">${2:Share}</ion-option-button>\r\n    <ion-option-button class=\"button-assertive\">${3:Edit}</ion-option-button>\r\n  </ion-item>\r\n</ion-list>\r\n"],
+        "tabTrigger": ["ionic-option-button"],
+        "scope": ["text.html"]
+    }
+}

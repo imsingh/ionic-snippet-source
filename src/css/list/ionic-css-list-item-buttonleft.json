@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<div class=\"item item-button-left\">\r\n  Ionic\r\n  <button class=\"button button-stable\">\r\n    <i class=\"icon ion-${1:ionic}\"></i>\r\n  </button>\r\n</div>\r\n"],
+        "tabTrigger": ["ionic-css-list-item:buttonleft"],
+        "scope": ["text.html"]
+    }
+}

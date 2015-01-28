@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<ion-footer-bar align-title=\"left\" class=\"bar-assertive\">\r\n  <div class=\"buttons\">\r\n    <button class=\"button\">Left Button</button>\r\n  </div>\r\n  <h1 class=\"title\">Title!</h1>\r\n  <div class=\"buttons\" ng-click=\"doSomething()\">\r\n    <button class=\"button\">Right Button</button>\r\n  </div>\r\n</ion-footer-bar>\r\n"],
+        "tabTrigger": ["ionic-footer-bar"],
+        "scope": ["text.html"]
+    }
+}

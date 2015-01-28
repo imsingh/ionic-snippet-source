@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<ion-toggle ng-model=\"${1:airplaneMode}\" toggle-class=\"toggle-dark\">${2:Airplane Mode}</ion-toggle>\r\n"],
+        "tabTrigger": ["ionic-toggle:dark"],
+        "scope": ["text.html"]
+    }
+}

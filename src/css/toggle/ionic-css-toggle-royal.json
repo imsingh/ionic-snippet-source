@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<label class=\"toggle toggle-royal\">\r\n  <input type=\"checkbox\">\r\n  <div class=\"track\">\r\n    <div class=\"handle\"></div>\r\n  </div>\r\n</label>\r\n"],
+        "tabTrigger": ["ionic-css-toggle:royal"],
+        "scope": ["text.html"]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<ion-view view-title=\"Title\">\r\n  <ion-content>\r\n    Content Here\r\n  </ion-content>\r\n</ion-view>\r\n"],
+        "tabTrigger": ["ionic-view"],
+        "scope": ["text.html"]
+    }
+}

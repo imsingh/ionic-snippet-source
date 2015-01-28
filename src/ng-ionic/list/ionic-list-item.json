@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<ion-item>${1:Item!}</ion-item>\r\n"],
+        "tabTrigger": ["ionic-item"],
+        "scope": ["text.html"]
+    }
+}

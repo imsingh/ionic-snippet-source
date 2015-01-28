@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<ion-content\r\n  delegate-handle=\"${1:}\"\r\n  direction=\"${2:}\"\r\n  locking=\"${3:}\"\r\n  padding=\"${4:}\"\r\n  scroll=\"${5:}\"\r\n  overflow-scroll=\"${6:}\"\r\n  scrollbar-x=\"${7:}\"\r\n  scrollbar-y=\"${8:}\"\r\n  start-x=\"${9:}\"\r\n  start-y=\"${10:}\"\r\n  on-scroll=\"${11:}\"\r\n  on-scroll-complete=\"${12:}\"\r\n  has-bouncing=\"${13:}\"\r\n  scroll-event-interval=\"${14:}\"\r\n  ${15:...}\r\n</ion-content>\r\n"],
+        "tabTrigger": ["ionic-content"],
+        "scope": ["text.html"]
+    }
+}

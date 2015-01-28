@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<ion-nav-buttons side=\"left\">\r\n  <button class=\"button\" ng-click=\"doSomething()\">\r\n    I'm a button on the left of the navbar!\r\n  </button>\r\n</ion-nav-buttons>\r\n"],
+        "tabTrigger": ["ionic-nav-buttons:left"],
+        "scope": ["text.html"]
+    }
+}

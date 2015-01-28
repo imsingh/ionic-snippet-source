@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<div class=\"bar bar-footer bar-energized\">\r\n  <h1 class=\"title\">${1:Footer-energized}</h1>\r\n</div>\r\n"],
+        "tabTrigger": ["ionic-css-footer:energized"],
+        "scope": ["text.html"]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<ion-toggle ng-model=\"${1:airplaneMode}\" toggle-class=\"toggle-stable\">${2:Airplane Mode}</ion-toggle>\r\n"],
+        "tabTrigger": ["ionic-toggle:stable"],
+        "scope": ["text.html"]
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "snippet": {
+        "content": ["\r\n<ion-content ng-controller=\"${1:ContentCtrl}\">\r\n  <div class=\"list\">\r\n    <div class=\"item my-item\"\r\n      collection-repeat=\"${2:item} in ${3:items}\"\r\n      collection-item-width=\"'${4:100%}'\"\r\n      collection-item-height=\"getItemHeight(${2:item}, \\$index)\"\r\n      ng-style=\"{height: getItemHeight(${2:item} , \\$index)}\">\r\n      {{${2:item}}}\r\n    </div>\r\n  </div>\r\n</ion-content>\r\n"],
+        "tabTrigger": ["ionic-collection-repeat"],
+        "scope": ["text.html"]
+    }
+}
